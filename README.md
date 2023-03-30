@@ -2,6 +2,8 @@
 ## Team ID: 12
 ## Team Member: Grace Yi Chen, Shuyang Chen, Dandi Chen
 
+Steps:
+
 Running parameters can be changed in test_ner.sh file. 
 
 By running: bash test_ner.sh, you can get all evaluation metrics of BioBERT+Linear on NCBI-disease dataset together with predictions.
