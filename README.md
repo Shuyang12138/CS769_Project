@@ -4,7 +4,7 @@
 
 Running parameters can be changed in test_ner.sh file. 
 
-By running 
+By running: 
 
 bash test_ner.sh
 
