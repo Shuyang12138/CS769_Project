@@ -16,7 +16,7 @@ Details of the folder:
     + Running parameters can be changed in code/test_ner.sh file. 
  * run_ner.py
     + This code contains all the functions for load, pretrain and fine-tune.
- * utils-ner.py
+ * utils_ner.py
     + This code contains some useful functions for different purpose.
  * scripts folder
     + This folder contains the function for preprocess BioNER data sets.
