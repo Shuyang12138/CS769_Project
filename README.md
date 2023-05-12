@@ -45,7 +45,7 @@ Details of the folder:
  * BioBERT+TAPT
     + python ContinuePretraining.py
     + change the model_name_or_path to pretrain/CP-model
-    + bash download.sh; bash preprocess.sh; bash test_ner.sh
+    + python data_reprocess_for_unlabel.py; bash test_ner.sh
  * BioBERT+VAT
     + change model_path to 'dmis-lab/biobert-base-cased-v1.1'
     + python semi_supervised.py
