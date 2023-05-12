@@ -2,7 +2,7 @@
 ## Team ID: 12
 ## Team Member: Grace Yi Chen, Shuyang Chen, Dandi Chen
 
-This is the python code for **Named Entity Recognition in Biomedical Domain**
+This is the python code for **Incorporating Unlabeled Data For Biomedical Named Entity Recognition**
 
 Details of the folder:
 
